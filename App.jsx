@@ -7,10 +7,10 @@ const Portfolio = () => {
       {/* 1. Navbar (Sticky) */}
       <nav className="sticky top-0 z-50 w-full bg-[#F5F7F2]/90 backdrop-blur-md border-b border-gray-200">
         <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
-          <div className="font-bold text-xl tracking-tight">Jayro Mazzi Junior</div>
+          <div className="font-bold text-xl tracking-tight">Jayro Mazzi Del Valle</div>
           <div className="hidden md:flex space-x-8 text-sm font-medium">
             <a href="#filosofia" className="hover:text-[#6193FF] transition-colors">Filosofia</a>
-            <a href="#projetos" className="hover:text-[#6193FF] transition-colors">Casos de Estudo</a>
+            <a href="#projetos" className="hover:text-[#6193FF] transition-colors">Casos de estudo</a>
             <a href="#ecossistema" className="hover:text-[#6193FF] transition-colors">Ecossistema</a>
           </div>
           <div className="flex space-x-4">
@@ -46,7 +46,7 @@ const Portfolio = () => {
       <section id="filosofia" className="bg-white py-24 border-y border-gray-100">
         <div className="max-w-6xl mx-auto px-6 grid md:grid-cols-2 gap-16 items-center">
           <div>
-            <h2 className="text-3xl font-bold mb-6">Onde a Empatia encontra a Engenharia</h2>
+            <h2 className="text-3xl font-bold mb-6">Onde a empatia encontra a engenharia</h2>
             <p className="text-gray-700 leading-relaxed mb-4">
               Acredito que a tecnologia mais complexa deve ter a interface mais humana. Com uma base sólida garantindo a usabilidade em operações de missão crítica e um foco atual no desenvolvimento de modelos generativos e RAG, atuo na ponte entre o código e o usuário.
             </p>
