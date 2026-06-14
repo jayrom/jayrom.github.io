@@ -7,7 +7,7 @@ const Portfolio = () => {
       {/* 1. Navbar (Sticky) */}
       <nav className="sticky top-0 z-50 w-full bg-[#F5F7F2]/90 backdrop-blur-md border-b border-gray-200">
         <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
-          <div className="font-bold text-xl tracking-tight">Jayro Mazzi Junior</div>
+          <div className="font-bold text-xl tracking-tight">Jayro Mazzi Del Valle</div>
           <div className="hidden md:flex space-x-8 text-sm font-medium">
             <a href="#filosofia" className="hover:text-[#6193FF] transition-colors">Filosofia</a>
             <a href="#projetos" className="hover:text-[#6193FF] transition-colors">Casos de Estudo</a>
@@ -200,7 +200,7 @@ const Portfolio = () => {
       {/* 6. Footer */}
       <footer className="max-w-6xl mx-auto px-6 py-10 text-center text-sm text-gray-500">
         <p>Construído com React, Tailwind CSS e IA.</p>
-        <p className="mt-2">© {new Date().getFullYear()} Jayro Mazzi Junior. Renovando o jay.pro.br.</p>
+        <p className="mt-2">© {new Date().getFullYear()} Jayro Mazzi Del Valle. Renovando o jay.pro.br.</p>
       </footer>
 
     </div>
