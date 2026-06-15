@@ -160,9 +160,8 @@ const Portfolio = () => {
 
           {/* Card 5 (Opcional: Triagem Médica) */}
           <a 
-            href="https://github.com/jayrom/NOME_DO_REPOSITORIO" 
-            target="_blank" 
-            rel="noopener noreferrer"
+            href="/docs/FIAP_ia_med_app_partes_1_e_2.pdf" 
+            download="JMDV_triagem_medica_com_NLP.pdf" 
             className="block bg-white p-8 rounded-2xl shadow-sm border border-gray-100 hover:shadow-md hover:border-[#6193FF] transition-all group cursor-pointer"
           >
             <div className="flex justify-between items-start mb-4">
