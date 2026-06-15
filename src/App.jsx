@@ -36,7 +36,7 @@ const Portfolio = () => {
           <a href="#projetos" className="bg-[#6193FF] text-white px-8 py-3 rounded-lg font-medium hover:bg-blue-600 transition-colors shadow-sm">
             Explorar Casos de Estudo
           </a>
-          <a href="https://linkedin.com/in/jayromazzi" className="border border-[#1F1300] px-8 py-3 rounded-lg font-medium hover:bg-[#1F1300] hover:text-white transition-colors">
+          <a href="https://linkedin.com/in/jayromazzi" target="_blank" className="border border-[#1F1300] px-8 py-3 rounded-lg font-medium hover:bg-[#1F1300] hover:text-white transition-colors">
             Conectar no LinkedIn
           </a>
         </div>
@@ -75,7 +75,7 @@ const Portfolio = () => {
           
           {/* Card 1 */}
           <a 
-            href="https://github.com/jayrom/NOME_DO_REPOSITORIO" 
+            href="#" 
             target="_blank" 
             rel="noopener noreferrer"
             className="block bg-white p-8 rounded-2xl shadow-sm border border-gray-100 hover:shadow-md hover:border-[#6193FF] transition-all group cursor-pointer"
@@ -97,7 +97,7 @@ const Portfolio = () => {
 
           {/* Card 2 */}
           <a 
-            href="https://github.com/jayrom/NOME_DO_REPOSITORIO" 
+            href="https://github.com/jayrom/enterprise_challenge_reply/tree/main" 
             target="_blank" 
             rel="noopener noreferrer"
             className="block bg-white p-8 rounded-2xl shadow-sm border border-gray-100 hover:shadow-md hover:border-[#6193FF] transition-all group cursor-pointer"
@@ -118,7 +118,7 @@ const Portfolio = () => {
 
           {/* Card 3 */}
           <a 
-            href="https://github.com/jayrom/NOME_DO_REPOSITORIO" 
+            href="https://www.behance.net/gallery/244155059/People-Connect-Plataforma-de-Clima-Organizacional" 
             target="_blank" 
             rel="noopener noreferrer"
             className="block bg-white p-8 rounded-2xl shadow-sm border border-gray-100 hover:shadow-md hover:border-[#6193FF] transition-all group cursor-pointer"
@@ -127,7 +127,7 @@ const Portfolio = () => {
               <span className="text-xs font-bold text-green-700 tracking-wider uppercase bg-green-50 px-3 py-1 rounded-full">Concluído</span>
               <span className="text-gray-400 group-hover:text-[#6193FF] transition-colors">↗</span>
             </div>
-            <h3 className="text-xl font-bold mb-3">Plataforma de Clima AI-Powered</h3>
+            <h3 className="text-xl font-bold mb-3">Plataforma de clima corporativo</h3>
             <p className="text-gray-600 mb-6 text-sm leading-relaxed">
               Transformação de dados qualitativos de colaboradores em métricas executivas acionáveis para o RH. Desenvolvimento unindo UX Research, painéis de gestão e IA para análise de sentimentos.
             </p>
@@ -139,7 +139,7 @@ const Portfolio = () => {
 
           {/* Card 4 */}
           <a 
-            href="https://github.com/jayrom/NOME_DO_REPOSITORIO" 
+            href="#" 
             target="_blank" 
             rel="noopener noreferrer"
             className="block bg-white p-8 rounded-2xl shadow-sm border border-gray-100 hover:shadow-md hover:border-[#6193FF] transition-all group cursor-pointer"
